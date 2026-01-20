@@ -13,8 +13,8 @@ import java.util.Date;
                                                                                                                     
 public class WeatherApp {                                                                                           
                                                                                                                     
-	// MY API KEY                                                                                                   
-	private static final String API_KEY = "3f5d2ac8e825ab9ef22b4c0e9d92d802";                                       
+	// API KEY                                                                                                   
+	private static final String API_KEY = "API_KEY_HERE";
                                                                                                                     
 	// UI components                                                                                                
 	private JFrame frame;                                                                                           
